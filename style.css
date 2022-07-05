@@ -3,6 +3,10 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.flex {
+    display: flex;
+}
+
 #header-image {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -10,5 +14,12 @@ body {
     background-position: center;
     height: 1200px;
     width: 100%;
-    filter: blur(8px);
+    filter: blur(4px);
+}
+
+#banner-text {
+    font-size: 100px;
+    font-weight: 700;
+    position: absolute;
+    color: white;
 }
