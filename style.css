@@ -23,7 +23,7 @@ body {
     font-size: 150px;
     font-weight: 900;
     color: white;
-    padding-left: 350px;
+    text-align: center;
     padding-top: 200px;
 }
 
@@ -50,4 +50,32 @@ body {
 
 .center {
     text-align: center;
+}
+
+#donate-today {
+    font-size: 90px;
+    font-weight: bolder;
+    padding-top: 200px;
+    margin-bottom: 0;
+}
+
+.donate-today-paragraph {
+    font-size: 40px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.taka {
+    font-size: 60px;
+    font-weight: 900;
+    text-align: center;
+    background-color: lightgray;
+    width: 300px;
+    height: 200px;
+    margin-right: 30px;
+}
+
+.display {
+    display: flex;
 }
