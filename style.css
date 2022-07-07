@@ -15,8 +15,6 @@ body {
     background-size: cover;
     height: 1200px;
     width: 100%;
-    < !-- filter: blur(4px);
-    -->
 }
 
 #banner-text {
@@ -113,7 +111,7 @@ body {
 }
 
 #donate-plan {
-    font-size: 50px;
+    font-size: 90px;
     margin-top: 200px;
 }
 
@@ -145,4 +143,64 @@ body {
 .icon-padding {
     padding-top: 40px;
     height: 100px;
+}
+
+.other-activities {
+    font-size: 90px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.activity {
+    width: 30%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    width: 700px;
+    align-items: center;
+}
+
+#get-my-update {
+    font-size: 90px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+#other-activity-paragraph {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 0;
+}
+
+#email {
+    margin-top: 60px;
+    width: 600px;
+    height: 60px;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    text-align: left;
+    background-color: aliceblue;
+    padding-right: 0;
+}
+
+#submit {
+    margin-top: 60px;
+    width: 200px;
+    height: 70px;
+    border: 2px solid red;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    text-align: center;
+    background-color: darkgreen;
+    padding-left: 0;
+}
+
+.bg {
+    background-color: bisque;
+    width: 50%;
+    margin-left: 600px;
+    margin-bottom: 300px;
 }
