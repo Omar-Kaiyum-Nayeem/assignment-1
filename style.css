@@ -201,6 +201,27 @@ body {
 .bg {
     background-color: bisque;
     width: 50%;
-    margin-left: 600px;
+    margin-left: 635px;
     margin-bottom: 300px;
+}
+
+#footer {
+    background-color: black;
+    height: 250px;
+}
+
+#footer-h {
+    color: brown;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+    font-family: Apple Chancery, cursive;
+    font-style: italic;
+}
+
+#footer-t {
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    font-size: 30px;
 }
